@@ -58,10 +58,10 @@ transform: translateX(-50%);
 width: 348px;
 height: 408px;
 pointer-events: none;
-background: url("../img/bulb_off.jpg");
+background: url("../img/off.jpg");
 transition: 0.5s;
 }
 label input:checked ~ .bulb{
-background: url("../img/bulb_on.jpg");
+background: url("../img/on.jpg");
 }
 
